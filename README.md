@@ -14,6 +14,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
  - [Talks](#talks)
  - [Conferences](#conference)
  - [Blogs](#blogs)
+ 
 
 ## Books
 - [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008
@@ -121,12 +122,16 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 - [Internet Privacy](https://youtu.be/tnsyhKHalGs) - Dr Alma Whitten (Google Brussels Tech Talk)
 
 
+
 #### Philosophical Talks
 - [The moral bias behind your search results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results) - Andreas Ekström (Swedish Author & Journalist, TED Talk)
 - [Beware online "filter bubbles"](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en) - Eli Pariser (Author of the Filter Bubble, TED Talk)
 - [Think your email's private? Think again](https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again) - Andy Yen (CERN, TED Talk) [This talk talks about privacy, which Search Engines intrude into, and how can people protect it]
 - [Do we have the right to be forgotten?](https://youtu.be/YO0lbdhF30g) - Michael Douglas [TEDx SouthBank]
 - [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Christopher "moot" Poole" (Ted Talks) [Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering — and influential — subculture.]
+- [Machine Intelligence makes human values more important](https://www.ted.com/talks/zeynep_tufekci_machine_intelligence_makes_human_morals_more_important#t-1049159) - Zeynep Tufecki (Technosociologist TED Talk)
+- [The Wonderful and terrifying implications of computers that can learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) - Jeremy Howard ( Data Scientist, TEDTalk)
+
 
 ## Conferences
 - Web Search and Data Mining Conference - [WSDM](http://www.wsdm-conference.org)
@@ -142,6 +147,25 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 ## Blogs
 - [Information Retrieval and the Web](http://research.google.com/pubs/InformationRetrievalandtheWeb.html) - Google Research
 - [IR Thoughts](https://irthoughts.wordpress.com) - Dr. Edel Garcia
+
+#### Interesting Reads
+- [Deep Neural Network Learns to Judge Books by Their Covers](https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post) 
+- [Can Deep Learning help solve Deep Learning](http://www.theverge.com/2016/11/7/13551210/ai-deep-learning-lip-reading-accuracy-oxford)
+- [Google unleashes machine dreaming software on the public, nightmarish images flood the internet](http://www.telegraph.co.uk/technology/google/11712495/Google-unleashes-machine-dreaming-software-on-the-public-nightmarish-images-flood-the-internet.html)
+- [What Happens When You Give an AI a Working Memory?](https://www.technologyreview.com/s/602615/what-happens-when-you-give-an-ai-a-working-memory/)
+- [Artificial Intelligence Will Be as Biased and Prejudiced as Its Human Creators](https://psmag.com/artificial-intelligence-will-be-as-biased-and-prejudiced-as-its-human-creators-38fe415f86dd#.dqsp2pkrm)
+- [Google researchers aim to prevent AIs from discriminating](https://techcrunch.com/2016/10/07/google-aims-to-prevent-discriminatory-ai-with-equality-of-opportunity-method/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook)
+- [To reduce biases in machine learning start with openly discussing the problem](https://enterprisersproject.com/article/2016/9/reduce-biases-machine-learning-start-openly-discussing-problem?sc_cid=70160000000q8YTAAY)
+- [Whoa, Google’s AI Is Really Good at Pictionary](https://www.wired.com/2016/11/woah-googles-ai-really-good-pictionary/)
+- [ Neural Nets Got You Confused? Try This Interactive Chart](https://www.wired.com/2016/04/neural-networks-got-confused-interactive-chart-can-help/)
+- [Neural Network Learns to Identify Criminals by Their Faces](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post)
+
+
+
+
+
+
+
 
 ## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
